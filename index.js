@@ -4,6 +4,8 @@
  * @typedef {import('./lib/index.js').Components} Components
  * @typedef {import('./lib/index.js').Options} Options
  * @typedef {import('./lib/index.js').UrlTransform} UrlTransform
+ * @typedef {import('./lib/index.js').MdastRoot} MdastRoot
  */
 
-export {Markdown as default, defaultUrlTransform} from './lib/index.js'
+export { Markdown as default, defaultUrlTransform } from './lib/index.js';
+

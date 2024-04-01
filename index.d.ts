@@ -3,4 +3,5 @@ export type AllowElement = import('./lib/index.js').AllowElement;
 export type Components = import('./lib/index.js').Components;
 export type Options = import('./lib/index.js').Options;
 export type UrlTransform = import('./lib/index.js').UrlTransform;
+export type MdastRoot = import('./lib/index.js').MdastRoot;
 export { Markdown as default, defaultUrlTransform } from "./lib/index.js";
